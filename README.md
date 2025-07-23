@@ -14,3 +14,4 @@ I'm Hashim, a front-end developer familiar with HTML, CSS, and JavaScript, curre
    Sharing resources and learning together
 # Let's connect:
  Feel free to check out my repositories, give feedback, or reach out for collaboration! Always open to meeting fellow developers and learning together.
+![Hashim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hashim-dev&show_icons=true&theme=radical)
