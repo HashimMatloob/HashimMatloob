@@ -5,5 +5,5 @@ I love building snappy, user-first interfaces and turning wild ideas into real p
 When I’m not tweaking pixels or debugging late into the night, you’ll probably find me on Reddit rabbit holes, planning my next project, or rewatching The Social Network for the hundredth time :p
 
 
-![Hashim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hashim-dev&show_icons=true&theme=radical)
+![Hashim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HashimMatloob&show_icons=true&theme=radical)
 
