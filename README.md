@@ -6,6 +6,7 @@ When I’m not tweaking pixels or debugging late into the night, you’ll probab
 
 
 ![Hashim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HashimMatloob&show_icons=true&theme=radical)
+_________________________________________________________________________________________________
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HashimMatloob&layout=compact&theme=radical)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
