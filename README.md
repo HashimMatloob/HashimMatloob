@@ -8,5 +8,7 @@ When I’m not tweaking pixels or debugging late into the night, you’ll probab
 ![Hashim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HashimMatloob&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HashimMatloob&layout=compact&theme=radical)
 [![wakatime](https://wakatime.com/badge/user/8e1e72b8-a596-444c-9823-a923dfd1c3ad.svg)](https://wakatime.com/@8e1e72b8-a596-444c-9823-a923dfd1c3ad)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
