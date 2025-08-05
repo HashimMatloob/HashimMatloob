@@ -1,8 +1,11 @@
-# hlo ji
+## Hi, I'm Hashim
 
-I’m Hashim, a frontend developer and creative thinker based in Pakistan.
-I love building snappy, user-first interfaces and turning wild ideas into real projects — one line of code at a time.
-When I’m not tweaking pixels or debugging late into the night, you’ll probably find me on Reddit rabbit holes, planning my next project, or rewatching The Social Network for the hundredth time :p
+Second year CS student at PIEAS.  
+Learning software engineering and diving deep into the MERN stack.  
+Watched *The Social Network* a hundred times.  
+Logic building? Still sharpening it.  
+Design? That’s where I shine.
+
 
 
 ## 🌐 Socials:
