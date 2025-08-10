@@ -30,8 +30,4 @@ Design? That’s where I shine.
 # wakatime stats:
 [![Hashim's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hashimmatloob&range=last_year&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-# checkout my wakatime
-[📊 Hashim's Full Stats](https://wakatime.com/@hashimmatloob)
-
-
 
