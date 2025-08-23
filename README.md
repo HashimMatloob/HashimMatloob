@@ -14,6 +14,5 @@ Tryin so hard to be employed.
 ![](https://nirzak-streak-stats.vercel.app/?user=HashimMatloob&theme=tokyonight&hide_border=false)
 
 <!-- Top Languages -->
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=hashimmatloob&range=last_year&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Hashim's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hashimmatloob&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
