@@ -1,8 +1,9 @@
-## Hi, I'm Hashim
+# Hi, I'm Hashim
 
-Second year CS student at PIEAS.  
-Learning software engineering and diving deep into the MERN stack.  
-Tryin so hard to be employed.
+CS student at PIEAS.
+
+Currently learning the MERN stack, solving problems, building projects, and occasionally questioning my life choices after reading yet another article about AI replacing programmers.
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
